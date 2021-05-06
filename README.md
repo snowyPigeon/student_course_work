@@ -18,23 +18,22 @@ The typical environment where the device will be used will be a home environment
 I also include some extracts below from my written report, indicating what I learned during evaluation, and how well different evaluation methods worked.
 
 # Recommendations for improvement
-
-Hardware
+# Hardware
 Further research is required to determine how best to support users for controlling the on-screen pointer. To support different dexterity capabilities of users, a modular space allowing connection of the user’s choice of mouse or trackball could be a solution to explore. However, the convenience of having media keys located close by the controller would ideally not be lost.
 
-Software
+# Software
 A guided set-up would be a solution to help prevent users from forgetting to select browsers, services and auto pause support. During a guided set up the web cam monitoring could be offered whilst advising how it will work, reassuring the users of how their privacy would be protected.
 
 # The Evaluation
-What worked well
+# What worked well
 The think aloud method provided opinions specific to the tasks of setting up the Companion App for use and using the Media Board keyboard to access an online video. The interview yielded more general opinions about the device. Specific but open questions were put to the participants, which yielded detailed insights. This led to some discussions about privacy and security which went beyond the scope of what this project intended. Another discovery was participants expecting more from the device than it would deliver.
 
-What worked less well
+# What worked less well
 Counting steps taken in the scenarios was not helpful and attempting to draw conclusions from the quantitative data is problematic for the following reasons:
 1.	The low fidelity designs cannot be interacted with in such a way that all users could accurately demonstrate their actions. Participants used variable levels of precision when describing the steps they would take. 
 2.	Capturing every user step was a challenge without the ability to record dialogue or users pointing to features on screen, because it is difficult to observe pointing on screen while making handwritten notes.
 
-What could be done differently
+# What could be done differently
 If unable to use recordings because participants do not grant permission there are other ways of monitoring steps taken through a scenario. Precise counts of steps could be acquired by using an interactive mock-up (for e.g, an HTML web page could be provided to users to simulate interaction). Interactions with the mock-up could be observed by a researcher, or software could log user actions.
 Alternatively, quantitative data could be collected by asking participants to record their own steps through scenarios. Surveying participants would not invade participants’ personal space. Strict instructions could request each navigation, click and text entering action.
 More questions could be asked in a survey or interview regarding which of the features of the physical and graphical user interfaces users liked and how users may choose to use those features. This would give more qualitative data.
