@@ -35,6 +35,8 @@ Counting steps taken in the scenarios was not helpful and attempting to draw con
 
 # What could be done differently
 If unable to use recordings because participants do not grant permission there are other ways of monitoring steps taken through a scenario. Precise counts of steps could be acquired by using an interactive mock-up (for e.g, an HTML web page could be provided to users to simulate interaction). Interactions with the mock-up could be observed by a researcher, or software could log user actions.
+
 Alternatively, quantitative data could be collected by asking participants to record their own steps through scenarios. Surveying participants would not invade participants’ personal space. Strict instructions could request each navigation, click and text entering action.
+
 More questions could be asked in a survey or interview regarding which of the features of the physical and graphical user interfaces users liked and how users may choose to use those features. This would give more qualitative data.
 
